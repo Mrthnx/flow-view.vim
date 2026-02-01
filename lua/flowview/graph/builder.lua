@@ -9,7 +9,9 @@ function M.build_stub()
     uri = "",
     range = {},
     language = "",
-    code_lines = {},
+    code_lines = {
+      "-- flow graph coming soon",
+    },
     calls = {},
   })
 end
